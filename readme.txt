@@ -1,5 +1,5 @@
 git is a version control system
-git is free software
+git is a good  free software
+git tracks changes
 
 
-add gpl
